@@ -25,6 +25,7 @@ python scraper.py
 Os resultados serão salvos em dois arquivos:
 
 vagas.json: arquivo JSON contendo as informações das vagas.
+
 vagas.csv: arquivo CSV contendo as informações das vagas.
 
 ## Personalização
