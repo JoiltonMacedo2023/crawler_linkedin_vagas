@@ -5,6 +5,7 @@ Este script Python realiza web scraping das vagas de emprego no LinkedIn com bas
 ## Requisitos
 
 Python 3.x
+
 Bibliotecas: requests, BeautifulSoup
 
 ## Como usar
