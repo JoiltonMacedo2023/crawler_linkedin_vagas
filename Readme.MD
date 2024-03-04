@@ -1,13 +1,13 @@
-Web Scraping de Vagas de Emprego no LinkedIn
+# Web Scraping de Vagas de Emprego no LinkedIn
 
 Este script Python realiza web scraping das vagas de emprego no LinkedIn com base em palavras-chave e localização especificadas. Ele extrai informações sobre as vagas encontradas, como título, empresa, localização, data de publicação e link para a vaga.
 
-Requisitos
+## Requisitos
 
 Python 3.x
 Bibliotecas: requests, BeautifulSoup
 
-Como usar
+## Como usar
 
 Clone este repositório:
 
@@ -26,7 +26,7 @@ Os resultados serão salvos em dois arquivos:
 vagas.json: arquivo JSON contendo as informações das vagas.
 vagas.csv: arquivo CSV contendo as informações das vagas.
 
-Personalização
+## Personalização
 
 Você pode personalizar a pesquisa editando as variáveis keywords e location no arquivo scraper.py. Ajuste essas variáveis para refletir as palavras-chave e a localização desejadas para a busca de vagas.
 
@@ -39,7 +39,7 @@ params={
 "trk": "guest_homepage-basic_guest_nav_menu_jobs"
 })
 
-Observações:
+## Observações:
 
 Este script foi desenvolvido para fins educacionais e de aprendizado.
 
