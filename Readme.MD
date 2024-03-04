@@ -45,4 +45,4 @@ params={
 
 Este script foi desenvolvido para fins educacionais e de aprendizado.
 
-O uso excessivo ou abusivo do web scraping pode violar os termos de serviço de alguns sites, incluindo o LinkedIn. Use deste script  é com responsabilidade e respeito aos termos de uso do LinkedIn e de outros sites.
+O uso excessivo ou abusivo do web scraping pode violar os termos de serviço de alguns sites, incluindo o LinkedIn.
